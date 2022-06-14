@@ -8,7 +8,7 @@ You've just been tasked with creating the new homepage for the _Rimrod & Harris_
 ![reference image](assets/reference-image.png)
 
 Looks like a job for **CSS Grid**, right?
-
+ 
 #### Instructions
 
 > - Use the _Maven Pro_ font from **Google Fonts**
